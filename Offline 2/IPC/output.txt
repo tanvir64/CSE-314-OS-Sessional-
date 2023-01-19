@@ -1,0 +1,221 @@
+Passenger 1 has arrived at the airport at time 2
+Passenger 2(VIP) has arrived at the airport at time 5
+Passenger 1 has started self-check in at kiosk 3 at time 2
+Passenger 2 has started self-check in at kiosk 1 at time 5
+Passenger 3 has arrived at the airport at time 8
+Passenger 4 has arrived at the airport at time 10
+Passenger 5 has arrived at the airport at time 14
+Passenger 6(VIP) has arrived at the airport at time 21
+Passenger 7 has arrived at the airport at time 25
+Passenger 6 has started self-check in at kiosk 2 at time 23
+Passenger 8 has arrived at the airport at time 27
+Passenger 9 has arrived at the airport at time 31
+Passenger 10 has arrived at the airport at time 32
+Passenger 11 has arrived at the airport at time 34
+Passenger 2 has finished self-check in at kiosk 1 at time 13
+Passenger 1 has finished self-check in at kiosk 3 at time 10
+Passenger 2(VIP) has started waiting on the VIP channel at time 14
+Passenger 2(VIP) has started crossing the VIP channel at time 13
+Passenger 1 has started waiting for security check in belt 2 from time 11
+Passenger 1 has started the security check in belt 2 at time 10
+Passenger 4 has started self-check in at kiosk 1 at time 12
+Passenger 3 has started self-check in at kiosk 3 at time 8
+Passenger 12(VIP) has arrived at the airport at time 39
+Passenger 13(VIP) has arrived at the airport at time 45
+Passenger 14(VIP) has arrived at the airport at time 48
+Passenger 15(VIP) has arrived at the airport at time 55
+Passenger 16(VIP) has arrived at the airport at time 58
+Passenger 17 has arrived at the airport at time 62
+Passenger 6 has finished self-check in at kiosk 2 at time 31
+Passenger 6(VIP) has started waiting on the VIP channel at time 32
+Passenger 9 has started self-check in at kiosk 2 at time 35
+Passenger 18 has arrived at the airport at time 68
+Passenger 19 has arrived at the airport at time 72
+Passenger 20 has arrived at the airport at time 76
+Passenger 4 has finished self-check in at kiosk 1 at time 26
+Passenger 4 has started waiting for security check in belt 2 from time 27
+Passenger 4 has started the security check in belt 2 at time 26
+Passenger 5 has started self-check in at kiosk 1 at time 16
+Passenger 3 has finished self-check in at kiosk 3 at time 22
+Passenger 3 has started waiting for security check in belt 1 from time 23
+Passenger 3 has started the security check in belt 1 at time 22
+Passenger 7 has started self-check in at kiosk 3 at time 29
+Passenger 1 has crossed the security check at time 20
+Passenger 1 has started waiting to be boarded at time 21
+Passenger 1 has started boarding the plane at time 21
+Passenger 9 has finished self-check in at kiosk 2 at time 49
+Passenger 9 has started waiting for security check in belt 1 from time 50
+Passenger 9 has started the security check in belt 1 at time 49
+Passenger 16 has started self-check in at kiosk 2 at time 68
+Passenger 2(VIP) has crossed the VIP channel at time 27
+Passenger 2(VIP) has started waiting to be boarded at time 28
+Passenger 6(VIP) has started crossing the VIP channel at time 41
+Passenger 5 has finished self-check in at kiosk 1 at time 38
+Passenger 5 has started waiting for security check in belt 2 from time 39
+Passenger 5 has started the security check in belt 2 at time 38
+Passenger 8 has started self-check in at kiosk 1 at time 31
+Passenger 7 has finished self-check in at kiosk 3 at time 49
+Passenger 7 has started waiting for security check in belt 1 from time 50
+Passenger 7 has started the security check in belt 1 at time 49
+Passenger 10 has started self-check in at kiosk 3 at time 38
+Passenger 4 has crossed the security check at time 36
+Passenger 4 has started waiting to be boarded at time 37
+Passenger 4(returned) has started waiting to cross the VIP channel at time 36
+Passenger 3 has crossed the security check at time 32
+Passenger 3 has started waiting to be boarded at time 33
+Passenger 16 has finished self-check in at kiosk 2 at time 86
+Passenger 16(VIP) has started waiting on the VIP channel at time 87
+Passenger 16(VIP) has started crossing the VIP channel at time 86
+Passenger 1 has boarded the plane at time 32
+Passenger 2(VIP) has started boarding the plane at time 28
+Passenger 9 has crossed the security check at time 59
+Passenger 9 has started waiting to be boarded at time 60
+Passenger 8 has finished self-check in at kiosk 1 at time 59
+Passenger 8 has started waiting for security check in belt 1 from time 60
+Passenger 8 has started the security check in belt 1 at time 59
+Passenger 12 has started self-check in at kiosk 1 at time 45
+Passenger 10 has finished self-check in at kiosk 3 at time 64
+Passenger 10 has started waiting for security check in belt 1 from time 65
+Passenger 10 has started the security check in belt 1 at time 64
+Passenger 11 has started self-check in at kiosk 3 at time 40
+Passenger 5 has crossed the security check at time 48
+Passenger 5 has started waiting to be boarded at time 49
+Passenger 7 has crossed the security check at time 59
+Passenger 7 has started waiting to be boarded at time 60
+Passenger 7(returned) has started waiting to cross the VIP channel at time 59
+Passenger 6(VIP) has crossed the VIP channel at time 55
+Passenger 6(VIP) has started waiting to be boarded at time 56
+Passenger 4(returned) has reached special kiosk at time 50
+Passenger 4(returned) has started using the special kiosk at time 50
+Passenger 12 has finished self-check in at kiosk 1 at time 77
+Passenger 12(VIP) has started waiting on the VIP channel at time 78
+Passenger 12(VIP) has started crossing the VIP channel at time 77
+Passenger 13 has started self-check in at kiosk 1 at time 53
+Passenger 11 has finished self-check in at kiosk 3 at time 74
+Passenger 11 has started waiting for security check in belt 2 from time 75
+Passenger 11 has started the security check in belt 2 at time 74
+Passenger 15 has started self-check in at kiosk 3 at time 63
+Passenger 2 has boarded the plane at time 47
+Passenger 3 has started boarding the plane at time 33
+Passenger 8 has crossed the security check at time 69
+Passenger 8 has started waiting to be boarded at time 70
+Passenger 10 has crossed the security check at time 74
+Passenger 10 has started waiting to be boarded at time 75
+Passenger 16(VIP) has crossed the VIP channel at time 100
+Passenger 16(VIP) has started waiting to be boarded at time 101
+Passenger 4(returned) has finished using the special kiosk at time 58
+Passenger 4(returned) has started waiting on the VIP channel at time 59
+Passenger 4(returned) has started crossing the VIP channel at time 58
+Passenger 13 has finished self-check in at kiosk 1 at time 93
+Passenger 13(VIP) has started waiting on the VIP channel at time 94
+Passenger 13(VIP) has started crossing the VIP channel at time 93
+Passenger 14 has started self-check in at kiosk 1 at time 56
+Passenger 7(returned) has reached special kiosk at time 73
+Passenger 15 has finished self-check in at kiosk 3 at time 101
+Passenger 15(VIP) has started waiting on the VIP channel at time 102
+Passenger 7(returned) has started using the special kiosk at time 73
+Passenger 17 has started self-check in at kiosk 3 at time 72
+Passenger 11 has crossed the security check at time 84
+Passenger 11 has started waiting to be boarded at time 85
+Passenger 3 has boarded the plane at time 60
+Passenger 9 has started boarding the plane at time 60
+Passenger 12(VIP) has crossed the VIP channel at time 91
+Passenger 12(VIP) has started waiting to be boarded at time 92
+Passenger 15(VIP) has started crossing the VIP channel at time 107
+Passenger 14 has finished self-check in at kiosk 1 at time 104
+Passenger 14(VIP) has started waiting on the VIP channel at time 105
+Passenger 18 has started self-check in at kiosk 1 at time 78
+Passenger 7(returned) has finished using the special kiosk at time 81
+Passenger 7(returned) has started waiting on the VIP channel at time 82
+Passenger 7(returned) has started crossing the VIP channel at time 81
+Passenger 17 has finished self-check in at kiosk 3 at time 118
+Passenger 17 has started waiting for security check in belt 2 from time 119
+Passenger 17 has started the security check in belt 2 at time 118
+Passenger 19 has started self-check in at kiosk 3 at time 84
+Passenger 4(returned) has crossed the VIP channel at time 72
+Passenger 4 has started waiting to be boarded at time 73
+Passenger 14(VIP) has started crossing the VIP channel at time 110
+Passenger 13(VIP) has crossed the VIP channel at time 107
+Passenger 13(VIP) has started waiting to be boarded at time 108
+Passenger 18 has finished self-check in at kiosk 1 at time 130
+Passenger 18 has started waiting for security check in belt 1 from time 131
+Passenger 18 has started the security check in belt 1 at time 130
+Passenger 20 has started self-check in at kiosk 1 at time 88
+Passenger 19 has finished self-check in at kiosk 3 at time 136
+Passenger 19 has started waiting for security check in belt 2 from time 137
+Passenger 19 has started the security check in belt 2 at time 136
+Passenger 9 has boarded the plane at time 95
+Passenger 5 has started boarding the plane at time 49
+Passenger 17 has crossed the security check at time 128
+Passenger 17 has started waiting to be boarded at time 129
+Passenger 15(VIP) has crossed the VIP channel at time 121
+Passenger 15(VIP) has started waiting to be boarded at time 122
+Passenger 7(returned) has crossed the VIP channel at time 95
+Passenger 7 has started waiting to be boarded at time 96
+Passenger 20 has finished self-check in at kiosk 1 at time 148
+Passenger 20 has started waiting for security check in belt 1 from time 149
+Passenger 20 has started the security check in belt 1 at time 148
+Passenger 18 has crossed the security check at time 140
+Passenger 18 has started waiting to be boarded at time 141
+Passenger 19 has crossed the security check at time 146
+Passenger 19 has started waiting to be boarded at time 147
+Passenger 14(VIP) has crossed the VIP channel at time 124
+Passenger 14(VIP) has started waiting to be boarded at time 125
+Passenger 5 has boarded the plane at time 92
+Passenger 6(VIP) has started boarding the plane at time 56
+Passenger 20 has crossed the security check at time 158
+Passenger 20 has started waiting to be boarded at time 159
+Passenger 6 has boarded the plane at time 109
+Passenger 8 has started boarding the plane at time 70
+Passenger 8 has boarded the plane at time 129
+Passenger 10 has started boarding the plane at time 75
+Passenger 10 has boarded the plane at time 146
+Passenger 16(VIP) has started boarding the plane at time 101
+Passenger 16 has boarded the plane at time 184
+Passenger 11 has started boarding the plane at time 85
+Passenger 11 has boarded the plane at time 172
+Passenger 12(VIP) has started boarding the plane at time 92
+Passenger 12 has boarded the plane at time 187
+Passenger 4 has started boarding the plane at time 73
+Passenger 4 has boarded the plane at time 172
+Passenger 13(VIP) has started boarding the plane at time 108
+Passenger 13 has boarded the plane at time 219
+Passenger 17 has started boarding the plane at time 129
+Passenger 17 has boarded the plane at time 248
+Passenger 15(VIP) has started boarding the plane at time 122
+Passenger 15 has boarded the plane at time 251
+Passenger 7 has started boarding the plane at time 96
+Passenger 7 has boarded the plane at time 235
+Passenger 18 has started boarding the plane at time 141
+Passenger 18 has boarded the plane at time 288
+Passenger 19 has started boarding the plane at time 147
+Passenger 19 has boarded the plane at time 306
+Passenger 14(VIP) has started boarding the plane at time 125
+Passenger 14 has boarded the plane at time 294
+Passenger 20 has started boarding the plane at time 159
+Passenger 20 has boarded the plane at time 334
+Passenger 1 has arrived at the airport at time 2
+Passenger 2(VIP) has arrived at the airport at time 5
+Passenger 1 has started self-check in at kiosk 3 at time 2
+Passenger 2 has started self-check in at kiosk 1 at time 5
+Passenger 3 has arrived at the airport at time 8
+Passenger 4 has arrived at the airport at time 10
+Passenger 3 has started self-check in at kiosk 2 at time 8
+Passenger 5 has arrived at the airport at time 14
+Passenger 6(VIP) has arrived at the airport at time 21
+Passenger 7 has arrived at the airport at time 25
+Passenger 8 has arrived at the airport at time 27
+Passenger 9 has arrived at the airport at time 31
+Passenger 10 has arrived at the airport at time 32
+Passenger 11 has arrived at the airport at time 34
+Passenger 1 has finished self-check in at kiosk 3 at time 10
+Passenger 5 has started self-check in at kiosk 3 at time 16
+Passenger 1 has started waiting for security check in belt 1 from time 11
+Passenger 1 has started the security check in belt 1 at time 10
+Passenger 2 has finished self-check in at kiosk 1 at time 13
+Passenger 2(VIP) has started waiting on the VIP channel at time 14
+Passenger 2(VIP) has started crossing the VIP channel at time 14
+Passenger 6 has started self-check in at kiosk 1 at time 23
+Passenger 12(VIP) has arrived at the airport at time 39
+Passenger 13(VIP) has arrived at the airport at time 45
+Passenger 14(VIP) has arrived at the airport at time 48
