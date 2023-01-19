@@ -1,0 +1,22 @@
+Modifications:
+##proc.h :
+declaration of variables required later
+
+##proc.c :
+allocproc()- initialize+createswapfile,
+wait() : unsetting the states of the parent process' pages,
+exit() : removeswapfile of the process,
+fork() : copy parent process' attributes
+procdump() : process details printing
+
+##vm.c :
+add swapPagefromFile() method
+add swapPagefromRAM() method
+allocuvm() : check whether page limit exceeds, call
+swapPagefromRAM() method if necessary,else add page to RAM
+copyuvm : check whether a page has been swapped out,if yes
+then update some flags
+
+
+
+

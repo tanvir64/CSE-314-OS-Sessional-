@@ -1,0 +1,14 @@
+kalloc() : 
+// Allocate one 4096-byte page of physical memory.
+// Returns a pointer that the kernel can use.
+// Returns 0 if the memory cannot be allocated.
+walkpgdir() : finds PTE for virtual address
+mappages() : creates/installs PTE for new mappings
+#kmap : 
+// This table defines the kernel's mappings, which are present in
+// every process's page table.
+pushcli():
+// Pushcli/popcli are like cli/sti except that they are matched:
+// it takes two popcli to undo two pushcli.  Also, if interrupts
+// are off, then pushcli, popcli leaves them off.
+exec(): rewrites memory image of the process.
