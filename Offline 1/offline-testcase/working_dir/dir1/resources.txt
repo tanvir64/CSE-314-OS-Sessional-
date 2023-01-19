@@ -1,0 +1,8 @@
+Useful links
+
+http://faculty.salina.k-state.edu/tim/unix_sg/bash/bash.html
+
+
+Self-study
+
+Arrays, sed, cut, find

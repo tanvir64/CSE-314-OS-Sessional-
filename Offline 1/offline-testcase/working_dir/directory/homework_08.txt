@@ -1,0 +1,35 @@
+Introduction to Unix
+Homework 8
+
+
+1. Write a  Bash shell script program that takes the name of a file or
+directory as an argument and reports if the file is a directory, regular file
+or other and also reports if the user has read, write and execute permission on
+the file or directory.  Use a sequence of if statements on the file name to
+determine the information.
+
+
+2. Write a Bash shell script program that takes two integer arguments.  The
+second argument is assumed to be greater than the first.  The output of the
+program is a counting of numbers beginning at the first number and ending with
+the second number.  (Note, this simple script is surprising useful for a number
+of activities when working with a Unix system.)
+
+3. Write a Bash shell script program that will read a list of numbers from
+standard input and the output is the sum of the numbers. 
+
+4. Write a Bash shell script program that removes all zero length ordinary
+files in the directory passed as an optional argument. If you do not specify
+the directory argument, the script uses the present working directory as the
+default argument. Do appropriate exception handling in your script.  Show a few
+sample runs of your script.
+
+5. (Extra Credit)  This one is a little bit trickier than it first appears.
+Write a Bash shell script that will rename all the files in a directory.  It
+will mostly be useful to rename digital picture files.  The first argument is a
+base name, second argument is a file extension.  If it is run as: 
+
+$ renumber 1stBirtday jpg
+
+then the resulting files should have names like: 
+1stBirthday001.jpg, 1stBirthday002.jpg,  1stBirthday003.jpg, etc. 

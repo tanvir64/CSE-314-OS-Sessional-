@@ -1,0 +1,42 @@
+Introduction Unix
+Homework 4
+
+1. What are the permissions for your home directory set by your system
+administrator? What command did you use to answer the question? Show your
+session.
+
+2. Consider the following files (or directories): /, /etc/passwd, 
+`which df`, ~, .bash_profile (in your home directory). Show the long
+listings for these files.  What is the meaning of each field in the output
+of the ls -l command?
+
+3. For files and directories given above, show permissions as octal numbers.
+
+4. Change directory to your home directory. If there is not a directory in
+your home directory called temp, create it.  Set permissions for ~/temp to
+execute only and run the ls -ld temp command. Now execute the ls -l temp
+command. What happens? Does it make sense to you? What are the minimum
+permissions required on a directory for the ls -l temp command to execute
+successfully. Set permissions for the temp directory to the minimum required
+and re-execute the ls -l temp command. Show your session.
+
+5. Create a new directory.  Use the ls -ld command to determine the
+permissions of the directory.  Use the id command to determine your current
+group id number (gid).  Now execute the command newgrp cmst270 and create
+another directory.  Use the id command and ls -ld for the new directory to
+determine all the effects of the newgrp command.
+
+6. Use the wc command with the /etc/passwd file to determine how many
+accounts are your system.  What does the head /etc/passwd command tell you
+about the first several accounts listed in /etc/passwd?  Use the command 
+cat -n /etc/passwd | more  
+to determine the line number of your entry in the file.  Now combine the
+head and tail commands to list just the line for your account.  Do you know
+of any other commands that will display the content?
+
+7. Execute the command getent passwd. For your user id, execute the getent
+passwd userid.  How does the getent command relate to the contents of the
+/etc/passwd file?  When do you think it would be better to use the getent
+command instead of the /etc/passwd file?  You may want to read the man page
+to determine this.
+

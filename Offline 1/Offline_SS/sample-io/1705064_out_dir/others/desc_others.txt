@@ -1,0 +1,2 @@
+../Offline_SS/sample-io/working_dir/abc2
+../Offline_SS/sample-io/working_dir/dir3/subdir6/abc1
